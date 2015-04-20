@@ -1,0 +1,96 @@
+<manifest alg="2" build="2" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="3835980900"/>
+    <file name="master_a-p_gina-maestra.css" crc="4285705384" ref="index"/>
+    <file name="index.css" crc="4226102758" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486" ref="index"/>
+      <file name="museutils.js" crc="410024474" ref="index"/>
+      <file name="pie.js" crc="4067523484" ref="index"/>
+      <file name="pie.htc" crc="119515598" ref="index"/>
+      <file name="jquery.tobrowserwidth.js" crc="3930036094" ref="index"/>
+      <file name="webpro.js" crc="4241983492" ref="index"/>
+      <file name="musewpslideshow.js" crc="4170181272" ref="index"/>
+      <file name="jquery.museoverlay.js" crc="535999373" ref="index"/>
+      <file name="touchswipe.js" crc="4156838003" ref="index"/>
+      <file name="jquery.watch.js" crc="3882405427" ref="index"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="375655015" ref="index"/>
+    <file name="logo.png" crc="416545514" ref="index"/>
+    <file name="face.png" crc="3884360242" ref="index"/>
+    <file name="twitt.jpg" crc="181829675" ref="index"/>
+    <file name="despegar.jpg" crc="206065076" ref="index"/>
+    <file name="h1.jpg" crc="338226261" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="h2.jpg" crc="468956275" ref="index"/>
+    <file name="h3.jpg" crc="3979344854" ref="index"/>
+    <file name="h4.jpg" crc="4039013123" ref="index"/>
+    <file name="h6.jpg" crc="116953452" ref="index"/>
+    <file name="h7.jpg" crc="3883776575" ref="index"/>
+    <file name="h8.jpg" crc="536448058" ref="index"/>
+    <file name="h9.jpg" crc="362340279" ref="index"/>
+    <file name="h10.jpg" crc="32227343" ref="index"/>
+    <file name="h11.jpg" crc="95226772" ref="index"/>
+    <file name="h12.jpg" crc="3879797935" ref="index"/>
+    <file name="h13.jpg" crc="367939710" ref="index"/>
+    <file name="h14.jpg" crc="347556046" ref="index"/>
+    <file name="h15.jpg" crc="3799229133" ref="index"/>
+    <file name="h183x45.jpg" crc="3792452593" ref="index"/>
+    <file name="h283x45.jpg" crc="152073265" ref="index"/>
+    <file name="h383x45.jpg" crc="337408626" ref="index"/>
+    <file name="h483x45.jpg" crc="4087164988" ref="index"/>
+    <file name="h683x45.jpg" crc="3850177660" ref="index"/>
+    <file name="h783x45.jpg" crc="261055584" ref="index"/>
+    <file name="h883x45.jpg" crc="4059760940" ref="index"/>
+    <file name="h983x45.jpg" crc="4260644694" ref="index"/>
+    <file name="h1083x45.jpg" crc="4017504011" ref="index"/>
+    <file name="h1183x45.jpg" crc="4227628630" ref="index"/>
+    <file name="h1283x45.jpg" crc="367990524" ref="index"/>
+    <file name="h1383x45.jpg" crc="213284972" ref="index"/>
+    <file name="h1483x45.jpg" crc="502620069" ref="index"/>
+    <file name="h1583x45.jpg" crc="38856775" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="trivago.png" crc="4062989611" ref="index"/>
+    <file name="expedia_logo.jpg" crc="4116919573" ref="index"/>
+    <file name="tarifas-06.png" crc="3804513135" ref="index"/>
+    <file name="nocheromn-14.jpg" crc="496038338" ref="index"/>
+    <file name="5.jpg" crc="4215515808" ref="index"/>
+    <file name="6.jpg" crc="4246903626" ref="index"/>
+    <file name="7.jpg" crc="293117882" ref="index"/>
+    <file name="8.jpg" crc="55576085" ref="index"/>
+    <file name="9.jpg" crc="408478671" ref="index"/>
+    <file name="12.jpg" crc="4224945969" ref="index"/>
+    <file name="13.jpg" crc="3995156287" ref="index"/>
+    <file name="14.jpg" crc="4067850386" ref="index"/>
+    <file name="15.jpg" crc="4075288053" ref="index"/>
+    <file name="17.jpg" crc="4074615898" ref="index"/>
+    <file name="18.jpg" crc="376258348" ref="index"/>
+    <file name="19.jpg" crc="3862409033" ref="index"/>
+    <file name="20.jpg" crc="4211548797" ref="index"/>
+    <file name="22.jpg" crc="4139023977" ref="index"/>
+    <file name="23.jpg" crc="4157919313" ref="index"/>
+    <file name="24.jpg" crc="3806684137" ref="index"/>
+    <file name="nocheromn-1484x45.jpg" crc="460184412" ref="index"/>
+    <file name="561x45.jpg" crc="112017702" ref="index"/>
+    <file name="669x45.jpg" crc="4186783688" ref="index"/>
+    <file name="768x45.jpg" crc="57204725" ref="index"/>
+    <file name="868x45.jpg" crc="3963752678" ref="index"/>
+    <file name="960x47.jpg" crc="3885114527" ref="index"/>
+    <file name="1268x45.jpg" crc="3829289354" ref="index"/>
+    <file name="1368x45.jpg" crc="31899235" ref="index"/>
+    <file name="1468x45.jpg" crc="4104439600" ref="index"/>
+    <file name="1568x45.jpg" crc="50509271" ref="index"/>
+    <file name="1768x45.jpg" crc="4069619483" ref="index"/>
+    <file name="1860x45.jpg" crc="359368361" ref="index"/>
+    <file name="1960x45.jpg" crc="4072119750" ref="index"/>
+    <file name="2060x45.jpg" crc="4284667561" ref="index"/>
+    <file name="2260x53.jpg" crc="474005691" ref="index"/>
+    <file name="2360x45.jpg" crc="488267747" ref="index"/>
+    <file name="2468x45.jpg" crc="239626042" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4158808187" mt="1429460130868"/>
+</manifest>
